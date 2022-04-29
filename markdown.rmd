@@ -12,3 +12,5 @@ b <- 4
 a+b
 ```
 
+This is my report example for my Markdown training.
+It was a little harder but it looks pretty in the end!
